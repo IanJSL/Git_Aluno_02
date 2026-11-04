@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 equipe main
+=======
+Equipe B
+>>>>>>> EquipeB
